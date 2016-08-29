@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  apellido: MyString
+  genero: MyString
+  edad: 1
+  correo: MyString
+  cel: MyString
+  direccion: MyString
+  barrio: MyString
+  ciudad: MyString
+  fecha_inicial: 2016-08-29
+  fecha_fin: 2016-08-29
+  activo: false
+  fecha_ultpago: 2016-08-29
+  fecha_finpago: 2016-08-29
+  contrato: false
+  subscription_id: 
+  payment_id: 
+
+two:
+  nombre: MyString
+  apellido: MyString
+  genero: MyString
+  edad: 1
+  correo: MyString
+  cel: MyString
+  direccion: MyString
+  barrio: MyString
+  ciudad: MyString
+  fecha_inicial: 2016-08-29
+  fecha_fin: 2016-08-29
+  activo: false
+  fecha_ultpago: 2016-08-29
+  fecha_finpago: 2016-08-29
+  contrato: false
+  subscription_id: 
+  payment_id: 
